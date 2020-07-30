@@ -10,4 +10,6 @@ CRUD operations on a NBA Players DB
 
 ### Compiles and hot-reloads for development
 
-dotnet watch
+```
+$ dotnet watch
+```
