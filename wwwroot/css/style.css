@@ -1,0 +1,12 @@
+.logo{
+    width:120px;
+    height: 60px;
+}
+
+.card{
+    
+    display: inline-block;
+    height: 400px;
+    width: 260px !important;
+}
+
